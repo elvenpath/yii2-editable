@@ -12,6 +12,12 @@
             "homepage": "http://www.krajee.com/"
         }
     ],
+    "repositories": [
+        {
+            "type": "vcs",
+            "url": "https://github.com/elvenpath/yii2-popover-x"
+        }
+    ],
     "require": {
         "kartik-v/yii2-krajee-base": "~1.7",
         "kartik-v/yii2-popover-x": "dev-master"
